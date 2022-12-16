@@ -1,0 +1,5 @@
+package com.formacion.apirest.service;
+
+public interface ProductoService {
+
+}
